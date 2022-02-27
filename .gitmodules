@@ -1,3 +1,3 @@
-[submodule "key_bindings"]
+[submodule "Godot-multiple_key_bindings"]
 	path = Godot-multiple_key_bindings
 	url = https://github.com/Gamemap/Godot-multiple_key_bindings
